@@ -15,24 +15,24 @@ var y = 210;
 
 
 var background = {
-    url: "../villaPlatzi/img/tile.png",
+    url: "img/tile.png",
     loadOk: false
 };
 
 
 var cow = {
-    url: "../villaPlatzi/img/vaca.png",
+    url: "img/vaca.png",
     loadOk: false
 };
 
 var pig = {
 
-    url: "../villaPlatzi/img/cerdo.png ",
+    url: "img/cerdo.png ",
     loadOk: false
 }
 
 var chicken = {
-    url: "../villaPlatzi/img/pollo.png",
+    url: "img/pollo.png",
     loadOk: false
 }
 
